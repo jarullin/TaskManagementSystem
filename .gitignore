@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Task Management System/*
+!/Task Management System/task/
+/Task Management System/task/*
+!/Task Management System/task/src
+!/Task Management System/task/build.gradle
